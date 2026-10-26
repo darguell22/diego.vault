@@ -1,0 +1,35 @@
+# LA FAMILIA AGUACATE — Complete Show Summary
+*DramitasTV's flagship series — the whole story, beginning to end (NOT a script)*
+
+Format: Anthology à la La Rosa de Guadalupe — same family, every episode a complete story with a lesson, ~45–60 seconds each, narrated in Spanglish. Underneath the standalone episodes runs one long emotional thread: a green avocado growing up in a red tomato family, in a neighborhood that slowly becomes his family too.
+
+---
+
+## THE PREMISE
+In a colorful barrio where fruits and vegetables live like people, the Tomato family runs a beloved stall at el mercado. Everyone knows them: hardworking Papá Tomás, warm Mamá Rosa, and the legendary Abuela Tere. Then the baby is born — and he is a bright green avocado. The show is the story of that child, Hass ("Hassito"), and everyone who has to learn what family actually means.
+
+## ACT 1 — THE SECRET (Episodes 1–10): "¿De quién es el bebé?"
+The series opens at the hospital: the tomato family stares at a green baby while the whole barrio whispers. Papá Tomás doubts, neighbors gossip, and Doña Cebolla spreads it like wildfire. In the pilot's climax, Abuela Tere reveals the buried family truth: her own husband, the late Abuelo Verde, was a green tomato — unripe his whole youth, mocked for it, and the love of her life. The green in Hassito is not a mistake; it's an inheritance. The family closes ranks, the baby is named, and the series' engine is set: Hassito will grow up visibly different in a world that keeps asking him to explain himself — and a family that keeps answering, in different ways, "he is ours."
+Early episodes are small and tender: the first day of school as the only green kid, the family photo where the photographer tries to arrange everyone "by color," and Hassito painting himself red for the school play — and the rain washing it off while Mamá Rosa tells him, "El rojo se cae, mi amor. Tú no." Act 1 ends with the birth of Cerecita, a cherry-tomato baby sister, and Hassito's fear of being replaced — resolved when the newborn reaches for his green hand first.
+
+## ACT 2 — THE NEIGHBORHOOD (Episodes 11–30): "La familia que escoges"
+The world widens. The mercado becomes the show's second home, and the neighbors get their own complete stories that reflect back on the family: Don Chile, the hot-tempered jalapeño vendor, falls hopelessly for Doña Cebolla and has to learn tenderness without losing his spice; Tío Limón, the sour uncle everyone avoids, is revealed to be guarding a heartbreak from his youth — he once loved someone from a family that rejected him for being "too agrio," which is why he flinches at Hassito's story and quietly becomes his fiercest defender. Mid-act, the family's stall is threatened when a big shiny supermarket opens across the street — the "Tienda Grande" arc — and the neighbors they've fed, employed, and forgiven for years organize to save them, paying back a decade of kindness in one weekend. Abuela Tere's health scare lands at the act's midpoint (she recovers — this is a comfort show — but the family hears her full Abuelo Verde love story from her own mouth in the show's most emotional episode, a flashback titled "El secreto de la abuela"). Hassito, now a kid and not a baby, starts asking harder questions: not "why am I green?" but "who do I want to be?" — answered in pieces: he wins the school cooking contest by fusing his father's salsa with his own guacamole, takes Cerecita under his wing, and becomes the neighborhood's little translator of feelings, the kid everyone brings their problems to.
+
+## ACT 3 — GROWING UP GREEN (Episodes 31–45): "Lo que te hace diferente"
+Time passes; Hassito is older now — taller, voice changing, first crush (a shy little pera from two stalls down who is terrified of being "too soft" — a pear bruises easily, and Hassito is the first person who understands hiding a difference). The act's stories get braver: a new kid arrives at school, a strange blue fruit nobody's seen, and Hassito watches his own first-day story replay from the other side — and chooses to be the welcome he once needed. The quinceañera of his prima fills a whole celebration arc where the entire cast dances, Tío Limón finally makes peace with his past love (she appears, older, kind, and taken — and he smiles anyway), and Papá Tomás gives the show's signature speech: that he once stood in a hospital doubting, and it remains the shame and the making of him. The Día de Muertos special closes the act: the family builds their ofrenda, Abuelo Verde's portrait goes up — green, smiling — and Hassito, who never met him, talks to the photo like an old friend. The florecita blooms on the ofrenda. Nobody explains it. Nobody has to.
+
+## THE FINALE (Episodes 46–50): "La foto"
+The series ends where it began — with a photograph. Years after the pilot's disastrous family photo, the family returns to the same photographer for a full barrio portrait: tomatoes, one grown avocado, a cherry-tomato teenager, an onion, a jalapeño, a lettuce, a lemon — the whole chosen family, arranged by nobody's color. Hassito, now grown, works the family stall (bigger now, with his salsa de aguacate as its famous product) beside Papá Tomás, who is greying at the stem. In the final episode, a young tomato couple at the hospital across the street is handed a baby who doesn't "match" — the show's opening scene, mirrored — and the last shot is Hassito, who happens to be delivering an order, catching the father's eye through the doorway and simply nodding, smiling, like: I know. It's going to be beautiful. The breeze moves through the hospital flowers, the ofrenda flowers, the mercado awnings — a florecita blooms somewhere off-screen — and the narrator closes the series with the line the audience has heard fifty times, finally in full: "Porque en esta familia… el amor no se mide por el color. Se mide por quién se queda." FIN.
+
+## WHY THE ARC WORKS
+- **Engine:** one question, asked 50 ways — what makes someone family? Every episode answers it from a new angle (blood, choice, forgiveness, showing up), which is exactly the La Rosa formula's moral engine, made serial.
+- **Continuity without cliffhangers:** characters age, couples form, secrets pay off — loyal viewers get a saga; drop-in viewers get a complete story every single time.
+- **Signature beats:** the florecita moment, the narrator's closing line, the mirrored scenes (hospital, photograph) — rituals fans come back for.
+- **Built in specials:** Día de Muertos, quinceañera, school year, holidays — an endless, calendar-friendly episode supply beyond Episode 50 if the show continues.
+
+---
+
+## Production notes (Everest)
+- **Format:** 45–60 sec vertical episodes, Spanglish narration — built for TikTok / Reels / Shorts.
+- **Production:** AI pipeline fits perfectly — AI visuals for the barrio/mercado world, consistent character design is the hard part (Hassito must look the same every episode). Character consistency matters more than visual wow.
+- **Next steps:** pilot script (Episode 1), character design sheet, narrator voice.
